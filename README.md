@@ -87,27 +87,27 @@ The Power BI report contains four analytical pages.
 1. Fraud Overview
 Provides an executive summary of transaction activity, fraud volume, fraud rate, financial exposure, monthly fraud trends, and transaction-channel risk.
 
-Fraud Overview
+images/fraud_overview.png
 
 2. Fraud Patterns
 Examines fraud behaviour across transaction hours, fraud types, and merchant categories.
 
-Fraud Patterns
+images/fraud_patterns.png
 
-3. Risk Indicators
+4. Risk Indicators
 Examines geographic and authentication indicators associated with fraudulent transactions.
 
-Risk Indicators
+images/risk_indicators.png
 
 4. Financial Impact
 Examines fraudulent transaction value, recorded fraud loss, monthly financial impact, transaction-channel exposure, and merchant-category losses.
 
-Financial Impact
+images/financial_impact.png
 
 Power BI Monitoring Dashboard
 A single-page executive fraud-monitoring dashboard was created in Power BI Service by pinning selected visuals from the published report.
 
-Power BI Monitoring Dashboard
+images/power_bi_dashboard.png
 
 Limitations
 The analysis identifies associations within the supplied dataset and does not establish causal relationships.

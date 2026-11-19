@@ -1,4 +1,4 @@
-Credit Card Fraud Detection and Transaction Risk Analytics
+1. Credit Card Fraud Detection and Transaction Risk Analytics
 An end-to-end data analytics project investigating credit card fraud patterns, transaction risk indicators, and financial impact using Python and Microsoft Power BI.
 
 Project Overview
